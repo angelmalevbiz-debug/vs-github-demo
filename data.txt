@@ -1,1 +1,1 @@
-Промяна от StudentB.
+Обединен текст от StudentA и StudentB.
